@@ -36,6 +36,7 @@ rmdir sarathi
 ```
 ## COMMAND AND OUTPUT
 
+<img width="907" height="128" alt="BCO 573d61a8-d910-42be-a87a-447f362818c2" src="https://github.com/user-attachments/assets/085e8327-a292-42af-a6f2-30e7e19b0789" />
 
 
 Create the file Rose.txt
